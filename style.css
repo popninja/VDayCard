@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    background-color: #8c020b;
+    color:#ff0062;
+    font-family: Verdana, Arial, sans-serif;
+}
+h1{
+    line-height: 150%;
+    padding-top: 10px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    line-height: 200%;
+    text-align: center;
+    padding-right:370px;
+    color:#000000;
+    font-family: "Lucidia Handwriting", Times, serif; 
+    font-style: italic;
+}
+h2{
+    line-height: 100%;
+    text-align: center;
+}
+ul{
+    padding-left: 660px;
+    line-height: 120%;
+    text-align: left;
+}
